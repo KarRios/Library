@@ -280,7 +280,7 @@ int main()
                 break;
 
             case 5:
-                // View outstanding rentals for a cardholder
+                bookrentals(books);
                 break;
 
             case 6:
